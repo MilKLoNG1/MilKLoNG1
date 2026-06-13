@@ -1,45 +1,51 @@
 <div align="center">
-  
-  <!-- 用原生大标题代替不稳定的打字机，高亮尊贵且永不裂开 -->
-  <h1>👋 Hi, I'm Chen Yunlong</h1>
-  <p><strong>🚀 Full-Stack AI Developer | CS Undergraduate | Tech Enthusiast</strong></p>
-
-  <hr />
-
-  <!-- 求职状态 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+lvy.+AI+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Third-year+CS+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
   <p>
-    🎯 <strong>目前正在寻找全职工作，坐标广深，随时可到岗！</strong>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
+    <strong>I am open to internship opportunities in any interesting direction.</strong>
   </p>
-  
-  <!-- 个人标签 -->
   <p>
-    <code>🌱 Born 2002-09-02</code> 
-    <code>♍ 处女座</code> 
-    <code>📍 深圳 / 广州 (Shenzhen / Guangzhou)</code>
+    <code>🌱 Born 2005-10-07</code>
+    <code>📍 Across China / Remote.</code>
   </p>
-  
 </div>
 
-### 💫 关于我 / About Me
+- I’m grateful to live in an open-source world. I love VS Code. TvT
+- I’m happy to contribute for free to fun projects & ideas, feel free to email me.
+- I’m primarily seeking AI R&amp;D / Full-Stack AI developer internships, and remaining open to other.
+- I love AI and concise design.
+- If you’re interested in what I’m building, welcome to join me.
 
-- 🛠️ **技术发烧友**：热衷于折腾各种前沿技术，享受从零到一构建应用的成就感。
-- 📚 **终身学习者**：对新知识保持极度饥渴，具备快速跨领域学习与技术迁移的能力。
-- 🤖 **全栈 AI 探索**：专注于将 AI 能力与全栈开发深度结合，致力于打造高效、创新的智能化产品。
-- 💡 **开放心态**：乐于拥抱变化，期待加入一个充满激情的团队，共同用代码解决现实世界的问题。
+### Links
 
-### 🔗 社交链接 / Links
-
-<!-- 用 GitHub 原生的纯文本按钮样式代替第三方徽章，国内 100% 秒加载 -->
 <p>
-  <a href="https://bilibili.com" target="_blank">
-    <code>📺 哔哩哔哩 (Cebuger)</code>
+  <a href="https://lvyovo-wiki.tech/">
+    <img src="https://img.shields.io/badge/BLOG-lvywiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:your_email@example.com">
-    <code>✉️ 联系邮箱 (Contact Me)</code>
+  <a href="https://leetcode.cn/u/hhczc/">
+    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
+  </a>
+  <a href="mailto:lvyovo01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  <br/>
+  <a href="https://xhslink.com/m/A0RmObjbu2e">
+    <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
+  </a>
+  <a href="https://space.bilibili.com/3546970173999844?spm_id_from=333.1007.0.0">
+    <img src="https://img.shields.io/badge/Bilibili-lvyneko-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
+  </a>
+  <a href="https://blog.csdn.net/2301_80171004?type=blog">
+    <img src="https://img.shields.io/badge/CSDN%20Views-1400K%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
   </a>
 </p>
 
----
+- **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
+- **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 
-> "持续学习，保持热爱，探索技术的无限可能。"
+Some column directions I study in [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
+
+> "The mission of learning is to gain an understanding of various designs."
+>
+> "Attempt to achieve any sustainable behavior through automated means."
