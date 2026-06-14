@@ -7,10 +7,6 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>I am open to full-time opportunities in any interesting direction.</strong>
   </p>
-  <p>
-    <code>🌱 Born 2002-09-02</code>
-    <code>📍 Shenzhen / Remote.</code>
-  </p>
 </div>
 
 - I’m grateful to live in an open-source world. I love Antigravity, Codex and Claude Code.
@@ -36,6 +32,10 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+<p>
+  <code>🌱 Born 2002-09-02</code>
+  <code>📍 Shenzhen / Remote.</code>
 </p>
 
 > "Simplicity is the ultimate sophistication, automated to be sustainable."
