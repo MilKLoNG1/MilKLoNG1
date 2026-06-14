@@ -1,8 +1,8 @@
 <div align="center">
   <!-- 动态打字效果第一行：你的名字和主攻方向 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=c7e8dd&center=true&vCenter=true&width=500&pause=100000&lines=Hi,+I'm+Yunlong+Chen.+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=00FF66&center=true&vCenter=true&width=500&pause=100000&lines=Hi,+I'm+Yunlong+Chen.+Full-Stack+Developer." alt="Hi"/>
   <!-- 动态打字效果第二行：你的标签/身份 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=c7e8dd&center=true&vCenter=true&width=650&pause=100000&lines=CS+Graduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=00FF66&center=true&vCenter=true&width=650&pause=100000&lines=CS+Graduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>I am open to full-time opportunities in any interesting direction.</strong>
