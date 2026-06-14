@@ -36,6 +36,12 @@
   </a>
 </p>
 
+### Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
 > "Simplicity is the ultimate sophistication, automated to be sustainable."
 > 
 > "简洁是最终的优雅，并以自动化使其永续。"
