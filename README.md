@@ -26,12 +26,10 @@
   <a href="mailto:chenyunlong806@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-chenyunlong806%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <!--
   <!-- 知乎 -->
   <a href="https://www.zhihu.com/people/imagination-82">
     <img src="https://img.shields.io/badge/Zhihu-imagination--82-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="zhihu"/>
   </a>
-  -->
   <!-- B站 -->
   <a href="https://space.bilibili.com/407428706?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/Bilibili-407428706-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
